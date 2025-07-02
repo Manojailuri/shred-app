@@ -4,4 +4,4 @@ this app can be used to delete files in a folder and overwriting them with rando
 ### step 1
 add these two files in ~/bin directory of your system
 ### step 2
-write "danger" in your terminal after changing directory to your desired directory to delete
+run "danger" in your terminal in your desired directory to delete and overwrite.
