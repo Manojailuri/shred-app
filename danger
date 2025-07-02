@@ -1,0 +1,6 @@
+#!/bin/bash
+python3 ~/bin/Danger/danger.py $(pwd);
+chmod +x ~/bin/Danger/del.sh;
+~/bin/Danger/del.sh;
+rm -r -I $(pwd);
+python3 ~/bin/Danger/dfile.py;
